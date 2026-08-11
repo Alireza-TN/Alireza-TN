@@ -82,38 +82,3 @@
 <p align="center">
   <strong>Build → Break → Understand → Secure</strong>
 </p>
-
----
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<p align="center">
-  <a href="https://github.com/Alireza-TN">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=Alireza-TN&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
-      height="180"
-      alt="Alireza's GitHub Statistics"
-    >
-  </a>
-
-  <a href="https://github.com/Alireza-TN">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alireza-TN&layout=compact&theme=transparent&hide_border=true&langs_count=6"
-      height="180"
-      alt="Alireza's Top Languages"
-    >
-  </a>
-</p>
-
----
-
-<h2 align="center">🔥 GitHub Contribution Streak</h2>
-
-<p align="center">
-  <a href="https://github.com/Alireza-TN">
-    <img
-      src="https://streak-stats.demolab.com/?user=Alireza-TN&theme=transparent&hide_border=true"
-      alt="Alireza's GitHub Contribution Streak"
-    >
-  </a>
-</p>
