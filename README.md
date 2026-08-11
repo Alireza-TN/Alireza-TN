@@ -110,6 +110,52 @@
 
 ---
 
+<h2 align="center">🧠 Currently Learning</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,linux,docker,git" height="55">
+</p>
+
+<p align="center">
+  <strong>Advanced Python</strong> •
+  <strong>Backend Architecture</strong> •
+  <strong>Networking</strong> •
+  <strong>Linux</strong> •
+  <strong>Cybersecurity</strong> •
+  <strong>AI Security</strong>
+</p>
+
+<p align="center">
+  Continuously improving my understanding of secure backend systems,
+  networking, Linux environments, and the intersection of AI and cybersecurity.
+</p>
+
+---
+
+<h2 align="center">🎯 Future Goals</h2>
+
+<p align="center">
+  🔐 Become a strong Cybersecurity & AI Security Engineer
+</p>
+
+<p align="center">
+  ⚙️ Build scalable and secure backend systems
+</p>
+
+<p align="center">
+  🤖 Develop intelligent security tools powered by AI
+</p>
+
+<p align="center">
+  🌐 Work on real-world networking and security systems
+</p>
+
+<p align="center">
+  🚀 Build software that combines engineering, security, and intelligence
+</p>
+
+---
+
 <h2 align="center">🧠 What I Build</h2>
 
 <p align="center">
