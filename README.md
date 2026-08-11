@@ -82,3 +82,113 @@
 <p align="center">
   <strong>Build → Break → Understand → Secure</strong>
 </p>
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+  A selection of projects focused on backend development,
+  networking, cybersecurity, and practical Python engineering.
+</p>
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+
+<h3 align="center">⚡ Task Management API</h3>
+
+<p align="center">
+  <a href="https://github.com/Alireza-TN/Task-Management-API">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  RESTful backend API designed for task management.
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,sqlite" height="35">
+</p>
+
+    </td>
+
+    <td width="50%" valign="top">
+
+<h3 align="center">🌐 Local Network Scanner</h3>
+
+<p align="center">
+  <a href="https://github.com/Alireza-TN/local-network-scanner">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  Network scanning tool built around Python networking concepts.
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux" height="35">
+</p>
+
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+
+<h3 align="center">🔐 Secure Password Manager</h3>
+
+<p align="center">
+  <a href="https://github.com/Alireza-TN/secure-password-manager">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  Secure password management application with encryption-focused design.
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sqlite" height="35">
+</p>
+
+    </td>
+
+    <td width="50%" valign="top">
+
+<h3 align="center">💰 Smart Expense Tracker</h3>
+
+<p align="center">
+  <a href="https://github.com/Alireza-TN/smart-expense-tracker">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  Python-based expense tracking application using OOP and SQLite.
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sqlite" height="35">
+</p>
+
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">🧠 What I Build</h2>
+
+<p align="center">
+  🔧 Backend Systems &nbsp; • &nbsp;
+  🌐 Network Tools &nbsp; • &nbsp;
+  🔐 Security-Focused Software &nbsp; • &nbsp;
+  🐍 Python Applications
+</p>
+
+<p align="center">
+  <strong>Build → Break → Understand → Secure</strong>
+</p>
