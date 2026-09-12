@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./ChatGPT Image Sep 12, 2026, 09_45_25 AM" alt="Alireza TN - Python Backend Developer | Cybersecurity | AI Security" width="100%">
+  <img src="./baner.png" alt="Alireza TN - Python Backend Developer | Cybersecurity | AI Security" width="100%">
 </p>
 
 <h1 align="center">👋 Hi, I'm Alireza TN</h1>
